@@ -146,3 +146,9 @@ Inspirational guidance from **Dr. Victor Ikechukwu** and contributions from heal
 Explore their work: [Dr. Victor Ikechukwu](https://github.com/Victor-Ikechukwu).
 
 ---
+
+## 📜 License
+This project is licensed under the **MIT License**.
+
+---
+🔥 *If you like this project, don't forget to ⭐ it on GitHub!*
