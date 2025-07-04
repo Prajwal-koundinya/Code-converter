@@ -54,7 +54,7 @@ code-converter/
 
 | Home Page                      | Code Conversion Example       |
 |--------------------------------|-------------------------------|
-| ![Home](./assets/home.png)      | ![Conversion](./assets/convert.png) |
+| ![Home](./assets/home.png)      | ![Conversion](https://github.com/Prajwal-koundinya/Code-converter/blob/main/image.png?raw=true) |
 
 ---
 
