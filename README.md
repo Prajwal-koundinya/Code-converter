@@ -141,8 +141,7 @@ yarn build
 ---
 
 ## 🤝 **Acknowledgments**
-
-Special thanks to the medical and AI communities for their valuable datasets and research.  
+  
 Inspirational guidance from **Dr. Victor Ikechukwu** and contributions from healthcare professionals.  
 Explore their work: [Dr. Victor Ikechukwu](https://github.com/Victor-Ikechukwu).
 
