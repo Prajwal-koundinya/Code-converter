@@ -52,9 +52,9 @@ code-converter/
 
 ## 📸 Screenshots
 
-| Home Page                      | Code Conversion Example       |
-|--------------------------------|-------------------------------|
-| ![Home](./assets/home.png)      | ![Conversion](https://github.com/Prajwal-koundinya/Code-converter/blob/main/image.png?raw=true) |
+| Code Conversion Example       |
+|-------------------------------|
+| ![Conversion](https://github.com/Prajwal-koundinya/Code-converter/blob/main/image.png?raw=true) |
 
 ---
 
